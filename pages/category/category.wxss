@@ -1,0 +1,71 @@
+.content {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: row;
+}
+.left {
+  width: 200rpx;
+  flex-shrink: 0;
+  border-right: 1rpx solid #7c7c7c;
+}
+.right {
+  width: 550rpx;
+  flex-grow: 1;
+}
+
+.category-item {
+  width: 100%;
+  height: 120rpx;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+/* 左侧标题被选中的背景 */
+.category-item-active {
+  background-color: #888888;
+}
+
+/* 标题与下面商品之间 */
+.goodsWrap-category {
+  margin-left: 20rpx;
+  margin-bottom: 20rpx;
+  height: 80rpx;
+  line-height: 80rpx;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  border-bottom: 1rpx solid #000000;
+}
+
+/* 每个商品 */
+.goods-item {
+  width: 100%;
+  display: flex;
+  padding: 5px;
+  flex-direction: row;
+  margin-left: 20rpx;
+  align-items: center;
+  justify-content: flex-start;
+  border-bottom: 1rpx solid #000000;
+}
+
+.goods-pic {
+  width: 80px;
+  height: 80px;
+  flex-shrink: 0;
+}
+
+.goods-info {
+  display: flex;
+  flex-direction: column;
+  padding: 0px 5px 0px 5px;
+  height: 80px;
+}
+.goodsName {
+  font-size: 28rpx;
+}
+.goodsPrice {
+  color:#e64340;
+}
