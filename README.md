@@ -1,7 +1,7 @@
-# 面馆小程序
+# 依邦妮干洗店小程序
 
 #### 介绍
-专为面馆打造的小程序，本项目是纯原生开发的小程序项目，没有使用第三方的开发框架，具有较高的研究学习价值。
+本项目是为自家干洗店写的小程序，参考的是[面馆小程序](https://gitee.com/javazj/noodle_shop_procedures.git)，在这个项目上做二次开发。原项目是纯原生开发的小程序项目，没有使用第三方的开发框架，具有较高的研究学习价值。以下是原项目的`README.md`
 
 本项目为专业的小程序项目，我们没有能力和计划为该项目配套开发接口及后台管理程序，为了更好的展示、演示本小程序的运行效果，本项目的 api接口及后台管理直接嫁接使用的 [api工厂](https://www.it120.cc/) 的免费云接口和云后台，在此先表示感谢！
 
@@ -24,7 +24,7 @@
 
 | 舔果果小铺 | 天使童装 | AI名片 |
 | :------: | :------: | :------: |
-| <img src="https://cdn.it120.cc/apifactory/2018/04/01/b7b8f5a0fcfc72454ade8510ab929717.jpg" width="200px"> | <img src="https://cdn.it120.cc/apifactory/2019/06/28/a8304003-3218-4a47-95cf-84d82ebdc07b.jpg" width="200px"> | <img src="https://cdn.it120.cc/apifactory/2018/12/18/c2324da4eea91602f385db5b523b13ca.jpg" width="200px"> | 
+| <img src="https://cdn.it120.cc/apifactory/2018/04/01/b7b8f5a0fcfc72454ade8510ab929717.jpg" width="200px"> | <img src="https://cdn.it120.cc/apifactory/2019/06/28/a8304003-3218-4a47-95cf-84d82ebdc07b.jpg" width="200px"> | <img src="https://cdn.it120.cc/apifactory/2018/12/18/c2324da4eea91602f385db5b523b13ca.jpg" width="200px"> |
 | [开源地址](https://github.com/walcer/TianguoguoXiaopu) | [开源地址](https://github.com/EastWorld/wechat-app-mall) | [开源地址](https://github.com/gooking/visitingCard) |
 
 ## 联系作者
